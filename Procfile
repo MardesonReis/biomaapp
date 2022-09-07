@@ -1,0 +1,1 @@
+web: bin/qgtunnel vendor/bin/heroku-php-apache2
